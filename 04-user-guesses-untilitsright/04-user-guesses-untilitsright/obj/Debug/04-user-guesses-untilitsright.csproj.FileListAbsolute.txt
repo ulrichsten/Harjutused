@@ -1,0 +1,14 @@
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.exe.config
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.exe
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.pdb
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.exe
+C:\Users\marta\Desktop\kooliprojekt\esitamiseks\exercises\src\02-homework\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.pdb
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.exe.config
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.exe
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\bin\Debug\04-user-guesses-untilitsright.pdb
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.exe
+C:\Users\marta\Desktop\04-user-guesses-untilitsright\04-user-guesses-untilitsright\obj\Debug\04-user-guesses-untilitsright.pdb

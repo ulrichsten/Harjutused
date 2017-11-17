@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.exe.config
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\bin\Debug\Tunnikontroll_2.pdb
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\Tunnikontroll_2\obj\Debug\Tunnikontroll_2.pdb

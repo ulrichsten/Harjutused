@@ -1,0 +1,5 @@
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\6versioon\bin\Debug\6versioon.exe.config
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\6versioon\bin\Debug\6versioon.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\6versioon\bin\Debug\6versioon.pdb
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\6versioon\obj\Debug\6versioon.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\Tunnikontroll_\6versioon\obj\Debug\6versioon.pdb

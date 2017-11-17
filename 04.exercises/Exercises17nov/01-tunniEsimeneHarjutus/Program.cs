@@ -14,7 +14,7 @@ namespace _01_tunniEsimeneHarjutus
             Console.WriteLine("Tere, kirjuta oma nimi");
             Console.WriteLine();
 
-            Console.Write("Sinu nimi: ");
+            Console.Write("Sinu nimi:  ");
             string sinuNimi = Console.ReadLine();
 
             Console.WriteLine(sinuNimi);

@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\obj\Debug\01-tunniEsimeneHarjutus.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\bin\Debug\01-tunniEsimeneHarjutus.exe.config
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\bin\Debug\01-tunniEsimeneHarjutus.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\bin\Debug\01-tunniEsimeneHarjutus.pdb
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\obj\Debug\01-tunniEsimeneHarjutus.exe
+C:\Users\opilane\Desktop\sten_programmeerimise alused 17,11\Harjutused\04.exercises\Exercises17nov\01-tunniEsimeneHarjutus\obj\Debug\01-tunniEsimeneHarjutus.pdb
